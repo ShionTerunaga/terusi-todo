@@ -23,5 +23,6 @@
 - web serverの仕組み
 - TypeScript Design Goals
 - OSSで見かけた`proxy`の秘密
+- 変数と定数とは
 
 
